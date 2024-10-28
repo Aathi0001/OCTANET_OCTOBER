@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+.hero {
+    background: url('hero.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+}
+
+h1 {
+    font-size: 2.5em;
+}
+
+.cta {
+    background: #ff5733;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.features, .testimonials, .pricing {
+    padding: 40px 20px;
+    text-align: center;
+}
+
+.feature, .plan {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    display: inline-block;
+    width: 30%;
+}
+
+.testimonials blockquote {
+    font-style: italic;
+    margin: 20px auto;
+}
+
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.socials a {
+    color: white;
+    margin: 0 10px;
+}
+
